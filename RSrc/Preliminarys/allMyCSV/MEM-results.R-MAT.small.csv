@@ -1,0 +1,26 @@
+path,k,max multirute flow,iterations
+R-MAT.50.5.1.gexf,2,14.0,1
+R-MAT.50.5.1.gexf,3,14.0,1
+R-MAT.50.5.1.gexf,5,14.0,1
+R-MAT.50.5.1.gexf,10,F,F
+R-MAT.50.5.1.gexf,50,F,F
+R-MAT.50.25.1.gexf,2,70.0,1
+R-MAT.50.25.1.gexf,3,70.0,1
+R-MAT.50.25.1.gexf,5,70.0,2
+R-MAT.50.25.1.gexf,10,64.42857142857144,5
+R-MAT.50.25.1.gexf,50,F,F
+R-MAT.100.5.1.gexf,2,21.0,1
+R-MAT.100.5.1.gexf,3,21.0,1
+R-MAT.100.5.1.gexf,5,21.0,1
+R-MAT.100.5.1.gexf,10,18.33333333333333,6
+R-MAT.100.5.1.gexf,50,F,F
+R-MAT.100.25.1.gexf,2,118.0,1
+R-MAT.100.25.1.gexf,3,118.0,1
+R-MAT.100.25.1.gexf,5,118.0,1
+R-MAT.100.25.1.gexf,10,116.11111111111111,3
+R-MAT.100.25.1.gexf,50,F,F
+R-MAT.500.5.1.gexf,2,45.0,1
+R-MAT.500.5.1.gexf,3,45.0,1
+R-MAT.500.5.1.gexf,5,45.0,1
+R-MAT.500.5.1.gexf,10,44.0,2
+R-MAT.500.5.1.gexf,50,F,F

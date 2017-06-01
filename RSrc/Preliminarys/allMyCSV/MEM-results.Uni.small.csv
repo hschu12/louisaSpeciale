@@ -1,0 +1,26 @@
+path,k,max multirute flow,iterations
+Rand.Uni.50.5.1.gexf,2,1.6168913997092123,3
+Rand.Uni.50.5.1.gexf,3,1.077927599806141,4
+Rand.Uni.50.5.1.gexf,5,0.6615080135583913,6
+Rand.Uni.50.5.1.gexf,10,F,F
+Rand.Uni.50.5.1.gexf,50,F,F
+Rand.Uni.50.25.1.gexf,2,18.939785143232335,1
+Rand.Uni.50.25.1.gexf,3,18.939785143232335,1
+Rand.Uni.50.25.1.gexf,5,18.939785143232335,1
+Rand.Uni.50.25.1.gexf,10,18.939785143232335,1
+Rand.Uni.50.25.1.gexf,50,F,F
+Rand.Uni.100.5.1.gexf,2,1.123156877924555,3
+Rand.Uni.100.5.1.gexf,3,0.9983616692662713,2
+Rand.Uni.100.5.1.gexf,5,0.37977885933600475,6
+Rand.Uni.100.5.1.gexf,10,F,F
+Rand.Uni.100.5.1.gexf,50,F,F
+Rand.Uni.100.25.1.gexf,2,23.503852366090015,1
+Rand.Uni.100.25.1.gexf,3,23.503852366090015,1
+Rand.Uni.100.25.1.gexf,5,23.503852366090015,1
+Rand.Uni.100.25.1.gexf,10,23.503852366090015,1
+Rand.Uni.100.25.1.gexf,50,F,F
+Rand.Uni.500.5.1.gexf,2,5.472203535752074,1
+Rand.Uni.500.5.1.gexf,3,5.472203535752074,1
+Rand.Uni.500.5.1.gexf,5,5.472203535752074,1
+Rand.Uni.500.5.1.gexf,10,F,F
+Rand.Uni.500.5.1.gexf,50,F,F

@@ -1,0 +1,16 @@
+path,k,max multirute flow,iterations
+Rand.Gauss025.100.5.1.gexf,2,5.5799889057148375,1
+Rand.Gauss025.100.5.1.gexf,3,5.5799889057148375,1
+Rand.Gauss025.100.5.1.gexf,5,5.5799889057148375,1
+Rand.Gauss025.100.5.1.gexf,10,F,F
+Rand.Gauss025.100.5.1.gexf,50,F,F
+Rand.Gauss025.100.10.1.gexf,2,9.453201204062552,1
+Rand.Gauss025.100.10.1.gexf,3,9.453201204062552,1
+Rand.Gauss025.100.10.1.gexf,5,9.453201204062552,1
+Rand.Gauss025.100.10.1.gexf,10,8.4595577689838,3
+Rand.Gauss025.100.10.1.gexf,50,F,F
+Rand.Gauss025.100.25.1.gexf,2,19.937245208534,1
+Rand.Gauss025.100.25.1.gexf,3,19.937245208534,1
+Rand.Gauss025.100.25.1.gexf,5,19.937245208534,1
+Rand.Gauss025.100.25.1.gexf,10,19.937245208534,1
+Rand.Gauss025.100.25.1.gexf,50,F,F

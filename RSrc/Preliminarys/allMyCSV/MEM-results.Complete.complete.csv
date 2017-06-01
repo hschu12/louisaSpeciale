@@ -1,0 +1,26 @@
+path,k,max multirute flow,iterations
+Complete.50.1.1.gexf,2,24.0950247029912,1
+Complete.50.1.1.gexf,3,24.0950247029912,1
+Complete.50.1.1.gexf,5,24.0950247029912,1
+Complete.50.1.1.gexf,10,24.0950247029912,1
+Complete.50.1.1.gexf,50,F,F
+Complete.50.20.1.gexf,2,446,1
+Complete.50.20.1.gexf,3,446,1
+Complete.50.20.1.gexf,5,446,1
+Complete.50.20.1.gexf,10,446,1
+Complete.50.20.1.gexf,50,F,F
+Complete.100.1.1.gexf,2,48.78037993322679,2
+Complete.100.1.1.gexf,3,48.78037993322679,1
+Complete.100.1.1.gexf,5,48.78037993322679,3
+Complete.100.1.1.gexf,10,48.78037993322679,2
+Complete.100.1.1.gexf,50,48.62387399151423,7
+Complete.100.20.1.gexf,2,899,1
+Complete.100.20.1.gexf,3,899,1
+Complete.100.20.1.gexf,5,899,1
+Complete.100.20.1.gexf,10,899,2
+Complete.100.20.1.gexf,50,888.6749999999997,14
+Complete.500.1.1.gexf,2,237.3101905926026,1
+Complete.500.1.1.gexf,3,237.3101905926026,1
+Complete.500.1.1.gexf,5,237.3101905926026,1
+Complete.500.1.1.gexf,10,237.3101905926026,1
+Complete.500.1.1.gexf,50,237.3101905926026,1
